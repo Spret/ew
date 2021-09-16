@@ -71,43 +71,43 @@ Mała Zosia mówi do mamy:<br>
 - Zosiu, zobacz jaka brzydka pogoda, pada deszcz, wiatr wieje, psa szkoda wypędzić na dwór, tatuś pójdzie i ci kupi.<br>
 </FIELDSET>
 <HR SIZE=15 WIDTH=400 ALIGN=right COLOR=purple NOSHADE>
-<!-Nazwisko		Imię		Szkoła		Klasa
-   Spretka		Alan		ZSE		1P->
+<!- Nazwisko		Imię		Szkoła		Klasa
+	Spretka			Alan		ZSE			1P->
 	/?#@$%^
 	<body>
 	
-	<h2 align=middle> <font color=blue> Najwięksi producenci komputerów na świecie
+	<h2 align=middle> <font color=blue> Najwięksi producenci komputerów na świecie </h2>
 <UL TYPE=circle> 
 <LI> Lenovo 
 <LI> HP
 <LI> Dell
-
- <h2 align=middle> Najczęściej używane systemy operacyjne
+ </UL> 
+ <h2 align=middle> Najczęściej używane systemy operacyjne </h2>
  <UL TYPE=square> 
 <LI> Windows 10 
 <LI> Windows 7
 <LI> Mac OS X
- 
- <h2 align=middle> Najpopularniejsze języki programowania
+ </UL> 
+ <h2 align=middle> Najpopularniejsze języki programowania </h2>
   <UL TYPE=disc> 
 <LI> JavaScript
 <LI> Python
 <LI> Java
-
+ </UL> 
  <HR>
- <h2 align=middle> <font color=red> Najczęściej używane przeglądarki internetowe
+ <h2 align=middle> <font color=red> Najczęściej używane przeglądarki internetowe </h2>
  <OL TYPE=1 START=1> 
 <LI> Chrome
 <LI> Safari
 <LI> Firefox
  </OL> 
- <h2 align=middle> dostawcy z najlepszą prędkością internetu w polsce
+ <h2 align=middle> dostawcy z najlepszą prędkością internetu w polsce </h2>
   <OL TYPE=a START=1> 
 <LI> UPC
 <LI> INEA
 <LI> T-mobile Stacjonarny
  </OL> 
- <h2 align=middle> Ranking najlepszych procesorów
+ <h2 align=middle> Ranking najlepszych procesorów </h2>
    <OL TYPE=I START=1> 
 <LI> Intel Core i7-9700K
 <LI> AMD Ryzen 5 2600 3,9 GHz AM4
